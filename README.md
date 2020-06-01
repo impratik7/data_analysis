@@ -1,2 +1,2 @@
 # data_analysis
-This repository contains a bunch of data analysis in R
+This repository contains a bunch of data analysis using R
