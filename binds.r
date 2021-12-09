@@ -3,7 +3,7 @@ library(dplyr)
 df1 = data.frame(name = c("Rahul","joe","Adam","Brendon"), married_year = c(2016,2015,2016,2008))
 df2 = data.frame(Birth_place = c("Delhi","Seattle","London","Moscow"), Birth_year = c(1988,1990,1989,1984))
 
-# cbind in R: column bind the data frames.
+# cbind in R: column binds the data frames.
 cbinded_df<-cbind(df1,df2)
 cbinded_df
 
